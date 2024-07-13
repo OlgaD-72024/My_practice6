@@ -2,6 +2,7 @@
 my_dict = {"Kirill": 2007, "Egor": 2012, "Irina": 1986}
 print(my_dict)
 print(my_dict.get("Egor"))
+print(my_dict.get("Mira"))
 my_dict["Karina"] = 1990
 print(my_dict)
 my_dict.update({"Gloria": 1965, "Ben": 1980})
